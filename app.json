@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Dove la vedo",
+    "slug": "dove-la-vedo",
+    "scheme": "dovelavedo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0D1411",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "ch.dovelavedo.app"
+    },
+    "android": {
+      "package": "ch.dovelavedo.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D1411"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications",
+      "expo-font",
+      "expo-asset",
+      "expo-background-task",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#0D1411"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "extra": {
+      "feedUrl": "https://raw.githubusercontent.com/TUO-UTENTE/dove-la-vedo/main/data/matches.json"
+    },
+    "icon": "./assets/icon.png"
+  }
+}

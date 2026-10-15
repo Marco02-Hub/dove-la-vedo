@@ -1,0 +1,123 @@
+{
+  "updatedAt": "2026-10-15T12:00:00+02:00",
+  "matches": [
+    {
+      "id": "serie_a-2026-10-18-udinese-lecce",
+      "competition": "serie_a", "group": "serie_a",
+      "home": "Udinese", "away": "Lecce", "kickoff": "2026-10-18T12:30:00+02:00",
+      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
+      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+    },
+    {
+      "id": "serie_a-2026-10-18-fiorentina-como",
+      "competition": "serie_a", "group": "serie_a",
+      "home": "Fiorentina", "away": "Como", "kickoff": "2026-10-18T15:00:00+02:00",
+      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
+      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+    },
+    {
+      "id": "serie_a-2026-10-18-milan-atalanta",
+      "competition": "serie_a", "group": "serie_a",
+      "home": "Milan", "away": "Atalanta", "kickoff": "2026-10-18T18:00:00+02:00",
+      "broadcasters": [
+        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
+        { "kind": "dazn", "name": "DAZN", "confirmed": true }
+      ],
+      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+    },
+    {
+      "id": "serie_a-2026-10-18-juventus-lazio",
+      "competition": "serie_a", "group": "serie_a",
+      "home": "Juventus", "away": "Lazio", "kickoff": "2026-10-18T20:45:00+02:00",
+      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
+      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+    },
+    {
+      "id": "ucl-2026-10-20-napoli-bodo-glimt",
+      "competition": "ucl", "group": "italiane",
+      "home": "Napoli", "away": "Bodø/Glimt", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-roma-slovan-bratislava",
+      "competition": "ucl", "group": "italiane",
+      "home": "Roma", "away": "Slovan Bratislava", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-psg-barcellona",
+      "competition": "ucl", "group": "top",
+      "home": "PSG", "away": "Barcellona", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-liverpool-villarreal",
+      "competition": "ucl", "group": "top",
+      "home": "Liverpool", "away": "Villarreal", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-man-city-aek-atene",
+      "competition": "ucl", "group": "top",
+      "home": "Man City", "away": "AEK Atene", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-stoccarda-atletico",
+      "competition": "ucl", "group": "top",
+      "home": "Stoccarda", "away": "Atlético Madrid", "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-20-sabah-dortmund",
+      "competition": "ucl", "group": "top",
+      "home": "Sabah", "away": "Dortmund", "kickoff": "2026-10-20T18:45:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-21-como-manchester-united",
+      "competition": "ucl", "group": "italiane",
+      "home": "Como", "away": "Manchester United", "kickoff": "2026-10-21T18:45:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": false }],
+      "warning": "Da confermare: il mercoledì Amazon sceglie una partita",
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-21-inter-shakhtar",
+      "competition": "ucl", "group": "italiane",
+      "home": "Inter", "away": "Shakhtar", "kickoff": "2026-10-21T21:00:00+02:00",
+      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": false }],
+      "warning": "Da confermare: il mercoledì Amazon sceglie una partita",
+      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+    },
+    {
+      "id": "ucl-2026-10-21-bayern-arsenal",
+      "competition": "ucl", "group": "top",
+      "home": "Bayern", "away": "Arsenal", "kickoff": "2026-10-21T21:00:00+02:00",
+      "broadcasters": [
+        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
+        { "kind": "free_ch", "name": "SRG (RSI · SRF · RTS)", "note": "candidata", "confirmed": false },
+        { "kind": "free_it", "name": "TV8", "note": "candidata · solo dall'Italia", "confirmed": false }
+      ],
+      "sources": ["https://www.srf.ch/sendungen/hallosrf/publikumsfragen/sport/sport-wie-berichtet-srf-ueber-die-europaeischen-clubwettbewerbe"]
+    },
+    {
+      "id": "ucl-2026-10-21-real-madrid-lipsia",
+      "competition": "ucl", "group": "top",
+      "home": "Real Madrid", "away": "Lipsia", "kickoff": "2026-10-21T21:00:00+02:00",
+      "broadcasters": [
+        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
+        { "kind": "free_ch", "name": "SRG (RSI · SRF · RTS)", "note": "candidata", "confirmed": false },
+        { "kind": "free_it", "name": "TV8", "note": "candidata · solo dall'Italia", "confirmed": false }
+      ],
+      "sources": ["https://www.srf.ch/sendungen/hallosrf/publikumsfragen/sport/sport-wie-berichtet-srf-ueber-die-europaeischen-clubwettbewerbe"]
+    }
+  ]
+}
