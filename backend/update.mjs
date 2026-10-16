@@ -19,33 +19,33 @@ const TOP_TEAMS = [
   'Manchester City', 'Arsenal', 'Chelsea', 'Manchester United', 'Tottenham', 'Leverkusen', 'Benfica', 'Porto',
 ];
 
-const ALLOWED_KINDS = new Set(['free_ch', 'free_it', 'sky', 'dazn']);
+const ALLOWED_KINDS = new Set(['free_ch', 'free_it', 'sky', 'dazn', 'prime']);
 
 function buildPrompt(today, until) {
   return `Oggi è ${today}. Cerca sul web le partite dal ${today} al ${until} (inclusi) di:
 1. Serie A: TUTTE le partite.
 2. UEFA Champions League: tutte le partite delle squadre italiane, più quelle in cui gioca almeno una di queste squadre top: ${TOP_TEAMS.join(', ')}.
 
-Per ogni partita trova dove si può vedere, considerando SOLO queste opzioni (ignora qualsiasi altra piattaforma a pagamento, es. Amazon Prime, blue Sport, Paramount):
+Per ogni partita trova dove si può vedere, considerando SOLO queste opzioni (ignora qualsiasi altra piattaforma a pagamento, es. blue Sport, Paramount):
 - "free_ch": in chiaro in Svizzera sulla SRG (RSI LA1/LA2, SRF zwei, RTS 2). La SRG trasmette una partita di Champions ogni mercoledì.
 - "free_it": in chiaro in Italia (TV8, Rai, Canale 5...). TV8 trasmette il mercoledì il big match tra squadre straniere.
 - "sky": Sky Italia / NOW (Serie A: 3 partite per giornata in co-esclusiva con DAZN; Champions: 185 partite su 203).
 - "dazn": DAZN Italia (Serie A: tutte le partite).
+- "prime": Amazon Prime Video (Champions: in esclusiva la miglior partita del mercoledì, di solito di un'italiana).
 
 Regole:
 - Usa fonti affidabili (palinsesti ufficiali, siti delle emittenti, UEFA, Lega Serie A, quotidiani sportivi). Annota gli URL usati.
 - "confirmed": true solo se una fonte lo dice esplicitamente per QUELLA partita; altrimenti false e spiega nel campo "note" (es. "candidata").
-- Se il mercoledì Amazon Prime potrebbe avere l'esclusiva di una partita delle italiane, scrivilo in "warning".
 - Orari in ISO 8601 con fuso orario di Zurigo (es. 2026-10-21T21:00:00+02:00).
 - "group": "serie_a" per la Serie A; per la Champions "italiane" se gioca un'italiana, altrimenti "top".
 - "id": "<competition>-<YYYY-MM-DD>-<casa>-<ospite>" in minuscolo con trattini, senza accenti.
 - Nomi squadre in italiano (Barcellona, Lipsia, Stoccarda...).
 - Per le partite delle settimane successive l'emittente spesso non è ancora annunciata: includile comunque con le opzioni probabili e "confirmed": false.
-- Se una partita non ha nessuna delle quattro opzioni, non includerla.
+- Se una partita non ha nessuna delle cinque opzioni, non includerla.
 
 Rispondi alla fine con SOLO un blocco \`\`\`json contenente un array di oggetti con questa forma esatta:
 {"id": string, "competition": "serie_a"|"ucl", "group": "serie_a"|"italiane"|"top", "home": string, "away": string,
- "kickoff": string, "broadcasters": [{"kind": "free_ch"|"free_it"|"sky"|"dazn", "name": string, "note"?: string, "confirmed": boolean}],
+ "kickoff": string, "broadcasters": [{"kind": "free_ch"|"free_it"|"sky"|"dazn"|"prime", "name": string, "note"?: string, "confirmed": boolean}],
  "warning"?: string, "sources": string[]}`;
 }
 

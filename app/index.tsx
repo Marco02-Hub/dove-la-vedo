@@ -78,6 +78,7 @@ export default function WeekScreen() {
                 <Toggle label="Gratis" active={filters.has('gratis')} onPress={() => toggleFilter('gratis')} />
                 <Toggle label="Sky" active={filters.has('sky')} onPress={() => toggleFilter('sky')} />
                 <Toggle label="DAZN" active={filters.has('dazn')} onPress={() => toggleFilter('dazn')} />
+                <Toggle label="Prime" active={filters.has('prime')} onPress={() => toggleFilter('prime')} />
               </View>
             </View>
             <View style={styles.row}>

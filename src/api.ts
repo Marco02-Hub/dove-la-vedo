@@ -32,7 +32,7 @@ export async function fetchFeed(): Promise<Feed | null> {
   }
 }
 
-/** Una partita è visibile se ha almeno un'opzione tra quelle scelte (gratis / Sky / DAZN). */
+/** Una partita è visibile se ha almeno un'opzione tra quelle scelte (gratis / Sky / DAZN / Prime). */
 export function matchesFilter(m: Match, filters: Set<Filter>): boolean {
   return m.broadcasters.some((b) => {
     if (b.kind === 'free_ch' || b.kind === 'free_it') return filters.has('gratis');

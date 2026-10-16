@@ -1,7 +1,7 @@
 # Dove la vedo
 
 App (Expo / React Native) che mostra dove vedere in Svizzera le partite di **Serie A** e **Champions League**:
-solo opzioni **gratis**, **Sky Italia/NOW** e **DAZN Italia**.
+solo opzioni **gratis**, **Sky Italia/NOW**, **DAZN Italia** e **Amazon Prime Video**.
 
 ## Come funziona
 
@@ -32,7 +32,11 @@ Senza feed online l'app usa i dati inclusi in `data/matches.json` (settimana del
 > Le notifiche programmate e l'aggiornamento in background in Expo Go funzionano solo in parte; per provarli
 > bene serve una build di sviluppo (`npx expo run:android` oppure EAS Build, vedi sotto).
 
-## Attivare l'aggiornamento automatico
+## Attivare l'aggiornamento automatico (facoltativo, a pagamento)
+
+Per ora i dati si aggiornano a mano con Claude Code (vedi CLAUDE.md) e il workflow parte solo se lanciato
+dalla tab Actions. Per renderlo automatico servono una chiave API Anthropic (a consumo) e le righe `schedule`
+in `.github/workflows/update-feed.yml`.
 
 1. Crea un repository GitHub (anche privato va bene per le Actions, ma il JSON deve essere leggibile:
    usa un repo **pubblico** oppure sposta il feed su un hosting tuo).

@@ -14,7 +14,7 @@ export interface Prefs {
 }
 
 const DEFAULT: Prefs = {
-  filters: ['gratis', 'sky', 'dazn'],
+  filters: ['gratis', 'sky', 'dazn', 'prime'],
   teams: [],
   allChampions: false,
   notifyBefore: true,

@@ -1,11 +1,12 @@
 // Tipi condivisi tra app e backend (il backend produce data/matches.json con questa forma).
 
-/** Solo queste opzioni vengono mostrate: tutto il resto a pagamento è escluso. */
+/** Solo queste opzioni vengono mostrate: tutto il resto a pagamento è escluso (niente blue, Paramount...). */
 export type BroadcasterKind =
   | 'free_ch' // in chiaro in Svizzera (SRG: RSI, SRF, RTS)
   | 'free_it' // in chiaro in Italia (TV8, Rai, Mediaset...) - visibile solo dall'Italia
   | 'sky' // Sky Italia / NOW
-  | 'dazn'; // DAZN Italia
+  | 'dazn' // DAZN Italia
+  | 'prime'; // Amazon Prime Video (Champions: la miglior partita del mercoledì)
 
 export interface Broadcaster {
   kind: BroadcasterKind;
@@ -41,4 +42,4 @@ export interface Feed {
   matches: Match[];
 }
 
-export type Filter = 'gratis' | 'sky' | 'dazn';
+export type Filter = 'gratis' | 'sky' | 'dazn' | 'prime';

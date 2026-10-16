@@ -1,10 +1,11 @@
 name: Aggiorna partite
 
+# Solo avvio manuale: per ora i dati si aggiornano a mano con Claude Code (vedi CLAUDE.md).
+# Per riattivare l'aggiornamento automatico (serve il secret ANTHROPIC_API_KEY, a pagamento):
+#   schedule:
+#     - cron: '0 5 * * *'   # 07:00 ora svizzera d'estate
+#     - cron: '0 15 * * *'  # 17:00 ora svizzera d'estate
 on:
-  schedule:
-    # 07:00 e 17:00 ora svizzera (UTC+2 in estate; in inverno un'ora prima)
-    - cron: '0 5 * * *'
-    - cron: '0 15 * * *'
   workflow_dispatch: {}
 
 permissions:

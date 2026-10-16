@@ -14,10 +14,11 @@ const KIND_LABEL: Record<Broadcaster['kind'], string> = {
   free_it: "Gratis in Italia (solo dall'Italia)",
   sky: 'Sky Italia / NOW',
   dazn: 'DAZN Italia',
+  prime: 'Amazon Prime Video',
 };
 
 // Ordine: prima il gratis visibile dalla Svizzera, poi il resto.
-const ORDER: Broadcaster['kind'][] = ['free_ch', 'free_it', 'sky', 'dazn'];
+const ORDER: Broadcaster['kind'][] = ['free_ch', 'free_it', 'sky', 'dazn', 'prime'];
 
 export default function MatchScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();

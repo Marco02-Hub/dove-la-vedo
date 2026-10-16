@@ -1,123 +1,1271 @@
 {
-  "updatedAt": "2026-10-15T12:00:00+02:00",
+  "updatedAt": "2026-10-16T21:39:23.329Z",
   "matches": [
     {
+      "id": "serie_a-2026-10-16-frosinone-sassuolo",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Sassuolo",
+      "kickoff": "2026-10-16T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-17-venezia-napoli",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Venezia",
+      "away": "Napoli",
+      "kickoff": "2026-10-17T15:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-17-bologna-inter",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Bologna",
+      "away": "Inter",
+      "kickoff": "2026-10-17T18:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-17-roma-genoa",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Roma",
+      "away": "Genoa",
+      "kickoff": "2026-10-17T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
       "id": "serie_a-2026-10-18-udinese-lecce",
-      "competition": "serie_a", "group": "serie_a",
-      "home": "Udinese", "away": "Lecce", "kickoff": "2026-10-18T12:30:00+02:00",
-      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
-      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Udinese",
+      "away": "Lecce",
+      "kickoff": "2026-10-18T12:30:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
       "id": "serie_a-2026-10-18-fiorentina-como",
-      "competition": "serie_a", "group": "serie_a",
-      "home": "Fiorentina", "away": "Como", "kickoff": "2026-10-18T15:00:00+02:00",
-      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
-      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Fiorentina",
+      "away": "Como",
+      "kickoff": "2026-10-18T15:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
       "id": "serie_a-2026-10-18-milan-atalanta",
-      "competition": "serie_a", "group": "serie_a",
-      "home": "Milan", "away": "Atalanta", "kickoff": "2026-10-18T18:00:00+02:00",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Milan",
+      "away": "Atalanta",
+      "kickoff": "2026-10-18T18:00:00+02:00",
       "broadcasters": [
-        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
-        { "kind": "dazn", "name": "DAZN", "confirmed": true }
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
       ],
-      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
       "id": "serie_a-2026-10-18-juventus-lazio",
-      "competition": "serie_a", "group": "serie_a",
-      "home": "Juventus", "away": "Lazio", "kickoff": "2026-10-18T20:45:00+02:00",
-      "broadcasters": [{ "kind": "dazn", "name": "DAZN", "confirmed": true }],
-      "sources": ["https://www.sport-flash.com/sports/football/it/calendar/2026-10-18"]
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Juventus",
+      "away": "Lazio",
+      "kickoff": "2026-10-18T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
-      "id": "ucl-2026-10-20-napoli-bodo-glimt",
-      "competition": "ucl", "group": "italiane",
-      "home": "Napoli", "away": "Bodø/Glimt", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+      "id": "serie_a-2026-10-19-monza-cagliari",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Monza",
+      "away": "Cagliari",
+      "kickoff": "2026-10-19T18:30:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
-      "id": "ucl-2026-10-20-roma-slovan-bratislava",
-      "competition": "ucl", "group": "italiane",
-      "home": "Roma", "away": "Slovan Bratislava", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
-    },
-    {
-      "id": "ucl-2026-10-20-psg-barcellona",
-      "competition": "ucl", "group": "top",
-      "home": "PSG", "away": "Barcellona", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
-    },
-    {
-      "id": "ucl-2026-10-20-liverpool-villarreal",
-      "competition": "ucl", "group": "top",
-      "home": "Liverpool", "away": "Villarreal", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
-    },
-    {
-      "id": "ucl-2026-10-20-man-city-aek-atene",
-      "competition": "ucl", "group": "top",
-      "home": "Man City", "away": "AEK Atene", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
-    },
-    {
-      "id": "ucl-2026-10-20-stoccarda-atletico",
-      "competition": "ucl", "group": "top",
-      "home": "Stoccarda", "away": "Atlético Madrid", "kickoff": "2026-10-20T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+      "id": "serie_a-2026-10-19-parma-torino",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Parma",
+      "away": "Torino",
+      "kickoff": "2026-10-19T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
     },
     {
       "id": "ucl-2026-10-20-sabah-dortmund",
-      "competition": "ucl", "group": "top",
-      "home": "Sabah", "away": "Dortmund", "kickoff": "2026-10-20T18:45:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true }],
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+      "competition": "ucl",
+      "group": "top",
+      "home": "Sabah",
+      "away": "Dortmund",
+      "kickoff": "2026-10-20T18:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-liverpool-villarreal",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Liverpool",
+      "away": "Villarreal",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-manchester-city-aek-atene",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Manchester City",
+      "away": "AEK Atene",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-napoli-bodo-glimt",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Napoli",
+      "away": "Bodø/Glimt",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-porto-psv",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Porto",
+      "away": "PSV",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-psg-barcellona",
+      "competition": "ucl",
+      "group": "top",
+      "home": "PSG",
+      "away": "Barcellona",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-roma-slovan-bratislava",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Roma",
+      "away": "Slovan Bratislava",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-20-stoccarda-atletico-madrid",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Stoccarda",
+      "away": "Atlético Madrid",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
     },
     {
       "id": "ucl-2026-10-21-como-manchester-united",
-      "competition": "ucl", "group": "italiane",
-      "home": "Como", "away": "Manchester United", "kickoff": "2026-10-21T18:45:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": false }],
-      "warning": "Da confermare: il mercoledì Amazon sceglie una partita",
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
-    },
-    {
-      "id": "ucl-2026-10-21-inter-shakhtar",
-      "competition": "ucl", "group": "italiane",
-      "home": "Inter", "away": "Shakhtar", "kickoff": "2026-10-21T21:00:00+02:00",
-      "broadcasters": [{ "kind": "sky", "name": "Sky Sport / NOW", "confirmed": false }],
-      "warning": "Da confermare: il mercoledì Amazon sceglie una partita",
-      "sources": ["https://it.uefa.com/uefachampionsleague/"]
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Como",
+      "away": "Manchester United",
+      "kickoff": "2026-10-21T18:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
     },
     {
       "id": "ucl-2026-10-21-bayern-arsenal",
-      "competition": "ucl", "group": "top",
-      "home": "Bayern", "away": "Arsenal", "kickoff": "2026-10-21T21:00:00+02:00",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Bayern",
+      "away": "Arsenal",
+      "kickoff": "2026-10-21T21:00:00+02:00",
       "broadcasters": [
-        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
-        { "kind": "free_ch", "name": "SRG (RSI · SRF · RTS)", "note": "candidata", "confirmed": false },
-        { "kind": "free_it", "name": "TV8", "note": "candidata · solo dall'Italia", "confirmed": false }
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
       ],
-      "sources": ["https://www.srf.ch/sendungen/hallosrf/publikumsfragen/sport/sport-wie-berichtet-srf-ueber-die-europaeischen-clubwettbewerbe"]
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-10-21-inter-shakhtar",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Inter",
+      "away": "Shakhtar",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "prime",
+          "name": "Prime Video",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
+        "https://www.calcioefinanza.it/2026/10/15/partita-in-chiaro-champions-league-terza-giornata/"
+      ]
     },
     {
       "id": "ucl-2026-10-21-real-madrid-lipsia",
-      "competition": "ucl", "group": "top",
-      "home": "Real Madrid", "away": "Lipsia", "kickoff": "2026-10-21T21:00:00+02:00",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Real Madrid",
+      "away": "Lipsia",
+      "kickoff": "2026-10-21T21:00:00+02:00",
       "broadcasters": [
-        { "kind": "sky", "name": "Sky Sport / NOW", "confirmed": true },
-        { "kind": "free_ch", "name": "SRG (RSI · SRF · RTS)", "note": "candidata", "confirmed": false },
-        { "kind": "free_it", "name": "TV8", "note": "candidata · solo dall'Italia", "confirmed": false }
+        {
+          "kind": "free_ch",
+          "name": "SRG (SRF zwei · RSI LA2 · RTS 2)",
+          "note": "indicata dalle guide TV, manca conferma SRG",
+          "confirmed": false
+        },
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
       ],
-      "sources": ["https://www.srf.ch/sendungen/hallosrf/publikumsfragen/sport/sport-wie-berichtet-srf-ueber-die-europaeischen-clubwettbewerbe"]
+      "sources": [
+        "https://fussballgucken.info/sender/srf-zwei",
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-23-torino-monza",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Torino",
+      "away": "Monza",
+      "kickoff": "2026-10-23T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-24-cagliari-bologna",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Cagliari",
+      "away": "Bologna",
+      "kickoff": "2026-10-24T15:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-24-como-sassuolo",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Como",
+      "away": "Sassuolo",
+      "kickoff": "2026-10-24T15:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-24-napoli-roma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Napoli",
+      "away": "Roma",
+      "kickoff": "2026-10-24T18:00:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-24-lazio-parma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lazio",
+      "away": "Parma",
+      "kickoff": "2026-10-24T20:45:00+02:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-25-inter-fiorentina",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Inter",
+      "away": "Fiorentina",
+      "kickoff": "2026-10-25T12:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-25-atalanta-frosinone",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Atalanta",
+      "away": "Frosinone",
+      "kickoff": "2026-10-25T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-25-genoa-venezia",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Genoa",
+      "away": "Venezia",
+      "kickoff": "2026-10-25T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-25-lecce-juventus",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lecce",
+      "away": "Juventus",
+      "kickoff": "2026-10-25T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-25-udinese-milan",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Udinese",
+      "away": "Milan",
+      "kickoff": "2026-10-25T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-27-sassuolo-lazio",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Sassuolo",
+      "away": "Lazio",
+      "kickoff": "2026-10-27T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-27-roma-cagliari",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Roma",
+      "away": "Cagliari",
+      "kickoff": "2026-10-27T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-27-torino-como",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Torino",
+      "away": "Como",
+      "kickoff": "2026-10-27T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-28-milan-bologna",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Milan",
+      "away": "Bologna",
+      "kickoff": "2026-10-28T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-28-parma-udinese",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Parma",
+      "away": "Udinese",
+      "kickoff": "2026-10-28T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-28-venezia-inter",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Venezia",
+      "away": "Inter",
+      "kickoff": "2026-10-28T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-28-genoa-juventus",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Genoa",
+      "away": "Juventus",
+      "kickoff": "2026-10-28T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-28-monza-napoli",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Monza",
+      "away": "Napoli",
+      "kickoff": "2026-10-28T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-29-frosinone-lecce",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Lecce",
+      "kickoff": "2026-10-29T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-29-fiorentina-atalanta",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Fiorentina",
+      "away": "Atalanta",
+      "kickoff": "2026-10-29T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-31-bologna-monza",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Bologna",
+      "away": "Monza",
+      "kickoff": "2026-10-31T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-31-udinese-roma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Udinese",
+      "away": "Roma",
+      "kickoff": "2026-10-31T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-10-31-milan-inter",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Milan",
+      "away": "Inter",
+      "kickoff": "2026-10-31T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-01-como-venezia",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Como",
+      "away": "Venezia",
+      "kickoff": "2026-11-01T12:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-01-frosinone-torino",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Torino",
+      "kickoff": "2026-11-01T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-01-lazio-cagliari",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lazio",
+      "away": "Cagliari",
+      "kickoff": "2026-11-01T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-01-lecce-genoa",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lecce",
+      "away": "Genoa",
+      "kickoff": "2026-11-01T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-01-juventus-napoli",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Juventus",
+      "away": "Napoli",
+      "kickoff": "2026-11-01T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-02-sassuolo-fiorentina",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Sassuolo",
+      "away": "Fiorentina",
+      "kickoff": "2026-11-02T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-02-atalanta-parma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Atalanta",
+      "away": "Parma",
+      "kickoff": "2026-11-02T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-03-atletico-madrid-bayern",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Atlético Madrid",
+      "away": "Bayern",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-03-barcellona-aston-villa",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Barcellona",
+      "away": "Aston Villa",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-03-feyenoord-inter",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Feyenoord",
+      "away": "Inter",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-03-manchester-united-roma",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Manchester United",
+      "away": "Roma",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-03-villarreal-psg",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Villarreal",
+      "away": "PSG",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-aek-atene-real-madrid",
+      "competition": "ucl",
+      "group": "top",
+      "home": "AEK Atene",
+      "away": "Real Madrid",
+      "kickoff": "2026-11-04T18:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-fenerbahce-liverpool",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Fenerbahçe",
+      "away": "Liverpool",
+      "kickoff": "2026-11-04T18:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-dortmund-betis",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Dortmund",
+      "away": "Betis",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-lens-como",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Lens",
+      "away": "Como",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-lipsia-manchester-city",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Lipsia",
+      "away": "Manchester City",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-porto-napoli",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Porto",
+      "away": "Napoli",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "prime",
+          "name": "Prime Video",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-04-slavia-praga-arsenal",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Slavia Praga",
+      "away": "Arsenal",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
+      "sources": [
+        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
     }
   ]
 }
