@@ -38,7 +38,7 @@
       "typedRoutes": false
     },
     "extra": {
-      "feedUrl": "https://raw.githubusercontent.com/TUO-UTENTE/dove-la-vedo/main/data/matches.json"
+      "feedUrl": "https://raw.githubusercontent.com/Marco02-Hub/dove-la-vedo/main/data/matches.json"
     },
     "icon": "./assets/icon.png"
   }
