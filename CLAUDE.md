@@ -18,7 +18,8 @@ Riferimento: canvas "App partite in Svizzera" su claude.ai. Colori e font in `sr
 Target touch ≥44px.
 
 ## Comandi
-- `npx expo start` — avvio
+- `npx expo start` — avvio (`--web` per la versione web)
+- `npx expo export --platform web` — verifica la build web (poi cancella `dist/`)
 - `npm run typecheck` — deve passare senza errori
 - `npx expo export --platform android` — verifica che il bundle compili (poi cancella `dist/`)
 - `npm run update-feed` — aggiorna data/matches.json (serve ANTHROPIC_API_KEY)
@@ -36,6 +37,12 @@ chiede "aggiorna le partite". Procedura:
    Attenzione al fuso: +02:00 fino all'ultima domenica di ottobre, poi +01:00 (fino all'ultima di marzo).
    Fonti discordanti o solo aggregatori → `confirmed: false` con una nota.
 4. `npm run typecheck`, commit, e chiedere all'utente di fare `git push`.
+
+## Versione web (PWA)
+L'utente ha un iPhone senza account sviluppatore Apple: l'app principale è la versione web su GitHub Pages
+(https://marco02-hub.github.io/dove-la-vedo/, `experiments.baseUrl` = `/dove-la-vedo`), pubblicata da
+`.github/workflows/deploy-web.yml`. Il codice che non funziona nel browser ha una variante `*.web.ts`
+(notifiche e background disattivati). Ogni modifica va verificata anche con l'export web.
 
 ## Prossimi passi (TODO)
 1. Fatto: repo online e feedUrl impostato. Aggiornamento automatico disattivato (vedi sopra).

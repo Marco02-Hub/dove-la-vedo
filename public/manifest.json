@@ -1,0 +1,17 @@
+{
+  "name": "Dove la vedo",
+  "short_name": "Dove la vedo",
+  "description": "Dove vedere in Svizzera Serie A e Champions League",
+  "lang": "it",
+  "start_url": "/dove-la-vedo/",
+  "scope": "/dove-la-vedo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1411",
+  "theme_color": "#0D1411",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -19,7 +19,16 @@ App sul telefono  ←── scarica il JSON da raw.githubusercontent.com ┘
 
 Senza feed online l'app usa i dati inclusi in `data/matches.json` (settimana del 18–21 ottobre 2026).
 
-## Avvio sul telefono (5 minuti)
+## App web su iPhone (consigliato, gratis)
+
+L'app è pubblicata come sito su **https://marco02-hub.github.io/dove-la-vedo/** (workflow
+`.github/workflows/deploy-web.yml`, a ogni push su main). Su iPhone: aprila in **Safari** → tasto
+**Condividi** → **Aggiungi alla schermata Home**. Si apre a schermo intero come un'app.
+Nella versione web non ci sono notifiche né aggiornamento in background.
+
+Prova in locale: `npx expo start --web`.
+
+## Avvio sul telefono con Expo Go (5 minuti)
 
 1. Installa Node.js 20+ e l'app **Expo Go** sul telefono.
 2. Nella cartella del progetto:
@@ -87,10 +96,11 @@ src/
   api.ts             download/cache del feed, filtri
   feed.tsx           stato condiviso del feed
   prefs.tsx          preferenze salvate sul telefono
-  notifications.ts   avvisi locali
+  notifications.ts   avvisi locali (notifications.web.ts: versione web senza notifiche)
   background.ts      aggiornamento del feed ad app chiusa (expo-background-task)
   components/        MatchCard, Chip, Toggle, Notice
 assets/              icona e splash
+public/              file del sito web: index.html (meta PWA), manifest.json, icone
 backend/update.mjs   ricerca web → data/matches.json
 data/matches.json    feed (anche dati di riserva)
 .github/workflows/   aggiornamento programmato

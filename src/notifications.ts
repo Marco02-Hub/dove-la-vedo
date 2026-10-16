@@ -6,6 +6,8 @@ import type { Feed, Match } from './types';
 
 const SIG_KEY = 'signatures:v1';
 
+export const notificationsAvailable = true;
+
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
     shouldShowBanner: true,

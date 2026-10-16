@@ -35,11 +35,22 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": false
+      "typedRoutes": false,
+      "baseUrl": "/dove-la-vedo"
     },
     "extra": {
       "feedUrl": "https://raw.githubusercontent.com/Marco02-Hub/dove-la-vedo/main/data/matches.json"
     },
-    "icon": "./assets/icon.png"
+    "icon": "./assets/icon.png",
+    "web": {
+      "output": "single",
+      "bundler": "metro",
+      "name": "Dove la vedo",
+      "shortName": "Dove la vedo",
+      "lang": "it",
+      "themeColor": "#0D1411",
+      "backgroundColor": "#0D1411",
+      "favicon": "./public/icon-192.png"
+    }
   }
 }

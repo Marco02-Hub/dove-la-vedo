@@ -1,9 +1,9 @@
 import React, { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { SectionLabel } from '@/components/ui';
+import { Notice, SectionLabel } from '@/components/ui';
 import { useFeed } from '@/feed';
-import { ensurePermission } from '@/notifications';
+import { ensurePermission, notificationsAvailable } from '@/notifications';
 import { usePrefs, type Prefs } from '@/prefs';
 import { colors, fonts } from '@/theme';
 
@@ -81,6 +81,11 @@ export default function AlertsScreen() {
 
         <View style={styles.block}>
           <SectionLabel>NOTIFICHE</SectionLabel>
+          {!notificationsAvailable && (
+            <Notice>
+              Nella versione web le notifiche non sono ancora attive. Le squadre che segui restano salvate.
+            </Notice>
+          )}
           <Row label="30 min prima del fischio" value={prefs.notifyBefore} onChange={(v) => setNotify({ notifyBefore: v })} />
           <Row label="Se cambia emittente" value={prefs.notifyChange} onChange={(v) => setNotify({ notifyChange: v })} />
         </View>
