@@ -1,87 +1,6 @@
 {
-  "updatedAt": "2026-10-16T21:39:23.329Z",
+  "updatedAt": "2026-10-18T21:16:17.081Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-16-frosinone-sassuolo",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Frosinone",
-      "away": "Sassuolo",
-      "kickoff": "2026-10-16T20:45:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-17-venezia-napoli",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Venezia",
-      "away": "Napoli",
-      "kickoff": "2026-10-17T15:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-17-bologna-inter",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Bologna",
-      "away": "Inter",
-      "kickoff": "2026-10-17T18:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-17-roma-genoa",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Roma",
-      "away": "Genoa",
-      "kickoff": "2026-10-17T20:45:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-18-udinese-lecce",
       "competition": "serie_a",
@@ -386,9 +305,16 @@
           "kind": "sky",
           "name": "Sky Sport / NOW",
           "confirmed": true
+        },
+        {
+          "kind": "free_it",
+          "name": "TV8",
+          "note": "guida TV di Goal; un'altra fonte indica Aston Villa-Viking",
+          "confirmed": false
         }
       ],
       "sources": [
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
         "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
       ]
@@ -904,7 +830,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
+        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -971,12 +898,19 @@
       "kickoff": "2026-11-01T18:00:00+01:00",
       "broadcasters": [
         {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
           "kind": "dazn",
           "name": "DAZN",
           "confirmed": true
         }
       ],
       "sources": [
+        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
+        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -1007,12 +941,19 @@
       "kickoff": "2026-11-02T18:30:00+01:00",
       "broadcasters": [
         {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
           "kind": "dazn",
           "name": "DAZN",
           "confirmed": true
         }
       ],
       "sources": [
+        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
+        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -1265,6 +1206,212 @@
       "sources": [
         "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
         "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-06-venezia-udinese",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Venezia",
+      "away": "Udinese",
+      "kickoff": "2026-11-06T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-07-cagliari-frosinone",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Cagliari",
+      "away": "Frosinone",
+      "kickoff": "2026-11-07T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-07-torino-lecce",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Torino",
+      "away": "Lecce",
+      "kickoff": "2026-11-07T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-07-parma-bologna",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Parma",
+      "away": "Bologna",
+      "kickoff": "2026-11-07T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-07-roma-sassuolo",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Roma",
+      "away": "Sassuolo",
+      "kickoff": "2026-11-07T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "note": "fonti discordanti",
+          "confirmed": false
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-08-napoli-lazio",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Napoli",
+      "away": "Lazio",
+      "kickoff": "2026-11-08T12:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-08-genoa-milan",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Genoa",
+      "away": "Milan",
+      "kickoff": "2026-11-08T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-08-monza-atalanta",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Monza",
+      "away": "Atalanta",
+      "kickoff": "2026-11-08T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-08-inter-como",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Inter",
+      "away": "Como",
+      "kickoff": "2026-11-08T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-08-fiorentina-juventus",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Fiorentina",
+      "away": "Juventus",
+      "kickoff": "2026-11-08T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
+        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
       ]
     }
   ]
