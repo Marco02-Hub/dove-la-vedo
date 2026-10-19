@@ -1,11 +1,10 @@
 name: Aggiorna partite
 
-# Solo avvio manuale: per ora i dati si aggiornano a mano con Claude Code (vedi CLAUDE.md).
-# Per riattivare l'aggiornamento automatico (serve il secret ANTHROPIC_API_KEY, a pagamento):
-#   schedule:
-#     - cron: '0 5 * * *'   # 07:00 ora svizzera d'estate
-#     - cron: '0 15 * * *'  # 17:00 ora svizzera d'estate
+# Ogni 6 ore legge calendario e canali da fonti pubbliche gratuite (backend/auto-update.mjs)
+# e salva data/matches.json. Nessuna chiave o servizio a pagamento.
 on:
+  schedule:
+    - cron: '15 */6 * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -18,21 +17,20 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
-      # Versioni bloccate dal lockfile (stesso SDK usato in locale)
-      - run: npm ci --ignore-scripts
-      - run: node backend/update.mjs
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # Lo script non ha dipendenze: niente npm install
+      - run: node backend/auto-update.mjs
       - name: Commit se ci sono cambiamenti
         run: |
           git config user.name "dove-la-vedo-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/matches.json
-          git diff --cached --quiet || git commit -m "Aggiorna partite $(date -u +%F)"
+          git diff --cached --quiet && exit 0
+          git commit -m "Aggiorna partite $(date -u +%F_%H%M)"
+          git pull --rebase -q origin main
           git push

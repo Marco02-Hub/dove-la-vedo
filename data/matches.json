@@ -1,130 +1,6 @@
 {
-  "updatedAt": "2026-10-18T21:16:17.081Z",
+  "updatedAt": "2026-10-19T21:37:58.076Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-18-udinese-lecce",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Udinese",
-      "away": "Lecce",
-      "kickoff": "2026-10-18T12:30:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-18-fiorentina-como",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Fiorentina",
-      "away": "Como",
-      "kickoff": "2026-10-18T15:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-18-milan-atalanta",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Milan",
-      "away": "Atalanta",
-      "kickoff": "2026-10-18T18:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-18-juventus-lazio",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Juventus",
-      "away": "Lazio",
-      "kickoff": "2026-10-18T20:45:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-19-monza-cagliari",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Monza",
-      "away": "Cagliari",
-      "kickoff": "2026-10-19T18:30:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-19-parma-torino",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Parma",
-      "away": "Torino",
-      "kickoff": "2026-10-19T20:45:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "ucl-2026-10-20-sabah-dortmund",
       "competition": "ucl",
@@ -140,8 +16,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915404",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -159,8 +35,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915397",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -178,8 +54,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915401",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -197,7 +73,8 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915400",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -215,8 +92,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915398",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -234,8 +111,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915399",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -253,7 +130,8 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915402",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -271,8 +149,8 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915392",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -290,7 +168,8 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915395",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -302,21 +181,20 @@
       "kickoff": "2026-10-21T21:00:00+02:00",
       "broadcasters": [
         {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
+          "kind": "free_it",
+          "name": "TV8",
+          "note": "solo dall'Italia",
           "confirmed": true
         },
         {
-          "kind": "free_it",
-          "name": "TV8",
-          "note": "guida TV di Goal; un'altra fonte indica Aston Villa-Viking",
-          "confirmed": false
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
         }
       ],
       "sources": [
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915312",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -334,8 +212,8 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
-        "https://www.calcioefinanza.it/2026/10/15/partita-in-chiaro-champions-league-terza-giornata/"
+        "https://www.espn.com/soccer/match/_/gameId/401915390",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -348,8 +226,8 @@
       "broadcasters": [
         {
           "kind": "free_ch",
-          "name": "SRG (SRF zwei · RSI LA2 · RTS 2)",
-          "note": "indicata dalle guide TV, manca conferma SRG",
+          "name": "SRG (SRF zwei · RSI LA 2)",
+          "note": "indicata dalle guide TV",
           "confirmed": false
         },
         {
@@ -359,9 +237,10 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915313",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://fussballgucken.info/sender/srf-zwei",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://fussballgucken.info/sender/rsi-la-2"
       ]
     },
     {
@@ -384,8 +263,10 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874957",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -403,7 +284,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874958",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -422,7 +304,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874961",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -441,7 +324,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874948",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -465,8 +349,10 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874955",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -484,8 +370,9 @@
         }
       ],
       "sources": [
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
-        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4"
+        "https://www.espn.com/soccer/match/_/gameId/401875036",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -503,7 +390,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874972",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -522,7 +410,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874952",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -546,8 +435,10 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874772",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -565,7 +456,8 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874779",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -584,7 +476,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874980",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -603,7 +495,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874780",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -627,8 +519,9 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874786",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -646,7 +539,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874993",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -665,7 +558,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874965",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -689,8 +582,9 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874773",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -708,7 +602,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874988",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -732,8 +626,9 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874799",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -751,7 +646,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874976",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -770,7 +665,7 @@
         }
       ],
       "sources": [
-        "https://sport.sky.it/calcio/serie-a/calendario-serie-a-anticipi-posticipi-2026-2027-big-match-su-sky",
+        "https://www.espn.com/soccer/match/_/gameId/401874969",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -789,6 +684,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874798",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -807,6 +703,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874990",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -830,9 +727,9 @@
         }
       ],
       "sources": [
-        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
-        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874795",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -850,6 +747,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875002",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -868,6 +766,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874782",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -886,6 +785,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874983",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -909,9 +809,9 @@
         }
       ],
       "sources": [
-        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
-        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874968",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -929,6 +829,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874949",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -952,9 +853,9 @@
         }
       ],
       "sources": [
-        "https://www.calciomercato.com/notizie/calendario-serie-a-dove-vedere-le-partite-su-dazn-e-sky-la-programmazione-completa/bltf92807236309c6b4",
-        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+        "https://www.espn.com/soccer/match/_/gameId/401874963",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -972,6 +873,7 @@
         }
       ],
       "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874971",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -990,8 +892,7 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915386"
       ]
     },
     {
@@ -1009,8 +910,7 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915387"
       ]
     },
     {
@@ -1028,8 +928,7 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        "https://www.espn.com/soccer/match/_/gameId/401915307"
       ]
     },
     {
@@ -1047,8 +946,7 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        "https://www.espn.com/soccer/match/_/gameId/401915308"
       ]
     },
     {
@@ -1066,8 +964,7 @@
         }
       ],
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915309"
       ]
     },
     {
@@ -1084,10 +981,8 @@
           "confirmed": true
         }
       ],
-      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915383"
       ]
     },
     {
@@ -1104,10 +999,8 @@
           "confirmed": true
         }
       ],
-      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915382"
       ]
     },
     {
@@ -1124,10 +1017,8 @@
           "confirmed": true
         }
       ],
-      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915304"
       ]
     },
     {
@@ -1145,8 +1036,7 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        "https://www.espn.com/soccer/match/_/gameId/401915305"
       ]
     },
     {
@@ -1163,10 +1053,8 @@
           "confirmed": true
         }
       ],
-      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915306"
       ]
     },
     {
@@ -1184,8 +1072,7 @@
         }
       ],
       "sources": [
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/",
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        "https://www.espn.com/soccer/match/_/gameId/401915301"
       ]
     },
     {
@@ -1202,10 +1089,8 @@
           "confirmed": true
         }
       ],
-      "warning": "Partita gratis del mercoledì (SRG in Svizzera, TV8 in Italia) non ancora annunciata per questa giornata.",
       "sources": [
-        "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
-        "https://www.calcioefinanza.it/2026/08/30/dove-vedere-champions-league-2026-2027-tv-streaming/"
+        "https://www.espn.com/soccer/match/_/gameId/401915381"
       ]
     },
     {
@@ -1228,8 +1113,9 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874815",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -1247,8 +1133,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874791",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1266,8 +1152,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874811",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1285,8 +1171,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874974",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1300,8 +1186,7 @@
         {
           "kind": "sky",
           "name": "Sky Sport / NOW",
-          "note": "fonti discordanti",
-          "confirmed": false
+          "confirmed": true
         },
         {
           "kind": "dazn",
@@ -1310,8 +1195,9 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://sport.virgilio.it/serie-a-dove-vedere-tutte-le-partite-in-tv-sky-o-dazn-652440"
+        "https://www.espn.com/soccer/match/_/gameId/401874803",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -1329,8 +1215,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874810",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1348,8 +1234,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401875018",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1367,8 +1253,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874800",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
     {
@@ -1391,8 +1277,9 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401874808",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     },
     {
@@ -1410,8 +1297,8 @@
         }
       ],
       "sources": [
-        "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-        "https://www.calcioefinanza.it/2026/09/03/serie-a-anticipi-e-posticipi-date-orari-diretta-tv/"
+        "https://www.espn.com/soccer/match/_/gameId/401875003",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
   ]

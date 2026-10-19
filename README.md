@@ -6,8 +6,8 @@ solo opzioni **gratis**, **Sky Italia/NOW**, **DAZN Italia** e **Amazon Prime Vi
 ## Come funziona
 
 ```
-GitHub Actions (2 volte al giorno)
-  └─ backend/update.mjs  → cerca sul web con l'API di Claude → scrive data/matches.json
+GitHub Actions (ogni 6 ore, gratis)
+  └─ backend/auto-update.mjs → legge fonti pubbliche → scrive data/matches.json
                                                                    │
 App sul telefono  ←── scarica il JSON da raw.githubusercontent.com ┘
   ├─ Settimana: prossimi 7 giorni filtrati (Gratis / Sky / DAZN, Serie A / Champions)
@@ -17,7 +17,7 @@ App sul telefono  ←── scarica il JSON da raw.githubusercontent.com ┘
      (anche ad app chiusa: il telefono riscarica il feed ogni ~3 ore)
 ```
 
-Senza feed online l'app usa i dati inclusi in `data/matches.json` (settimana del 18–21 ottobre 2026).
+Senza feed online l'app usa la copia di `data/matches.json` inclusa al momento della pubblicazione.
 
 ## App web su iPhone (consigliato, gratis)
 
@@ -41,27 +41,28 @@ Prova in locale: `npx expo start --web`.
 > Le notifiche programmate e l'aggiornamento in background in Expo Go funzionano solo in parte; per provarli
 > bene serve una build di sviluppo (`npx expo run:android` oppure EAS Build, vedi sotto).
 
-## Attivare l'aggiornamento automatico (facoltativo, a pagamento)
+## Aggiornamento automatico dei dati (gratis)
 
-Per ora i dati si aggiornano a mano con Claude Code (vedi CLAUDE.md) e il workflow parte solo se lanciato
-dalla tab Actions. Per renderlo automatico servono una chiave API Anthropic (a consumo) e le righe `schedule`
-in `.github/workflows/update-feed.yml`.
+`.github/workflows/update-feed.yml` lancia `backend/auto-update.mjs` ogni 6 ore (e a mano dalla tab
+Actions). Lo script non usa AI né chiavi: legge solo fonti pubbliche e salva `data/matches.json`.
 
-1. Crea un repository GitHub (anche privato va bene per le Actions, ma il JSON deve essere leggibile:
-   usa un repo **pubblico** oppure sposta il feed su un hosting tuo).
-2. Fai il push di questa cartella.
-3. In GitHub → Settings → Secrets and variables → Actions aggiungi `ANTHROPIC_API_KEY`.
-4. In `app.json` sostituisci `TUO-UTENTE` nell'URL `extra.feedUrl` con il tuo utente GitHub.
-5. Lancia a mano la prima volta: tab **Actions** → "Aggiorna partite" → **Run workflow**.
+| Dato | Fonte |
+|---|---|
+| Calendario e orari (prossimi 21 giorni) | API pubblica ESPN |
+| Le 3 partite Sky per giornata di Serie A | programmi.sky.it ("trasmesse da Sky") |
+| Prime Video, TV8, Sky in Champions (circa 7 giorni) | guida TV di Goal |
+| Gratis in Svizzera (SRF zwei, RSI LA 2) | guide TV di fussballgucken.info |
+| Correzioni a mano | `data/manual.json` |
 
-Prova del backend in locale:
-```bash
-ANTHROPIC_API_KEY=sk-... npm run update-feed
+Se una fonte non risponde lo script tiene i dati precedenti per quella parte. DAZN trasmette tutta la
+Serie A, quindi è sempre indicato. Per correggere a mano una partita si aggiunge una voce in
+`data/manual.json`, ad esempio:
+
+```json
+{ "ucl-2026-11-04-porto-napoli": { "broadcasters": [{ "kind": "prime", "name": "Prime Video", "confirmed": true }] } }
 ```
 
-Il backend usa `claude-opus-5-5` (cambiabile con `ANTHROPIC_MODEL`) e cerca le partite dei prossimi
-21 giorni (`DAYS_AHEAD`). Costo indicativo: una richiesta con fino a 30 ricerche web per esecuzione,
-2 esecuzioni al giorno.
+Prova in locale: `npm run update-feed`.
 
 ## Build per il telefono (EAS)
 
@@ -80,7 +81,8 @@ Per gli store: `eas build -p android --profile production` e poi `eas submit -p 
 
 - **Sky e DAZN Italia dalla Svizzera**: la portabilità degli abbonamenti vale solo nei Paesi UE, quindi
   dalla Svizzera le app sono di solito bloccate. L'app lo segnala con un avviso.
-- I dati arrivano da una ricerca web automatica: le opzioni non confermate sono marcate "da confermare".
+- I dati arrivano da guide TV pubbliche: le opzioni indicate solo da guide non ufficiali (es. SRG) sono
+  marcate "da confermare".
 
 ## Struttura
 
@@ -101,7 +103,8 @@ src/
   components/        MatchCard, Chip, Toggle, Notice
 assets/              icona e splash
 public/              file del sito web: index.html (meta PWA), manifest.json, icone
-backend/update.mjs   ricerca web → data/matches.json
+backend/auto-update.mjs  fonti pubbliche → data/matches.json
 data/matches.json    feed (anche dati di riserva)
+data/manual.json     correzioni a mano, hanno la precedenza
 .github/workflows/   aggiornamento programmato
 ```

@@ -6,7 +6,8 @@ L'utente parla italiano: testi UI, commenti e messaggi in italiano.
 ## Regole di prodotto
 - Mostrare SOLO 5 tipi di emittente: `free_ch` (SRG: RSI/SRF/RTS), `free_it` (in chiaro in Italia), `sky`, `dazn`,
   `prime` (Amazon Prime Video: l'utente lo vede dalla Svizzera). Nessun'altra piattaforma a pagamento (niente blue, Paramount...). Il filtro vale sia nel backend
-  (`validate` in backend/update.mjs) sia nell'app (`matchesFilter` in src/api.ts).
+  (`goalKinds` in backend/auto-update.mjs) sia nell'app (`matchesFilter` in src/api.ts).
+- **Costo zero:** niente API a pagamento (nemmeno l'API Anthropic), niente servizi con carta di credito.
 - Champions: squadre italiane + top europee (lista `TOP_TEAMS` nel backend). In UI prima "ITALIANE", poi "TOP EUROPEE".
 - Mai presentare come certo un dato non confermato: `confirmed: false` → "Da confermare".
 - Orari sempre nel fuso `Europe/Zurich`.
@@ -22,21 +23,23 @@ Target touch ≥44px.
 - `npx expo export --platform web` — verifica la build web (poi cancella `dist/`)
 - `npm run typecheck` — deve passare senza errori
 - `npx expo export --platform android` — verifica che il bundle compili (poi cancella `dist/`)
-- `npm run update-feed` — aggiorna data/matches.json (serve ANTHROPIC_API_KEY)
+- `npm run update-feed` — aggiorna data/matches.json dalle fonti pubbliche (gratis, nessuna chiave)
 - Usare `npx expo install <pkg>` (non `npm install`) per le dipendenze native, così le versioni restano allineate all'SDK.
 
-## Aggiornare le partite (a mano, gratis)
+## Aggiornamento dei dati
 Il feed online è https://raw.githubusercontent.com/Marco02-Hub/dove-la-vedo/main/data/matches.json.
-Il workflow GitHub è solo manuale (l'API Anthropic è a pagamento): i dati si aggiornano quando l'utente
-chiede "aggiorna le partite". Procedura:
-1. `git pull` (il repo è Marco02-Hub/dove-la-vedo).
-2. Cercare sul web le partite dei prossimi ~3 settimane: Serie A (anticipi/posticipi con DAZN/Sky) e Champions
-   (italiane + `TOP_TEAMS`), più la partita gratis del mercoledì (SRG: SRF zwei/RSI LA2/RTS 2; TV8) e
-   l'esclusiva Prime Video del mercoledì.
-3. Riscrivere data/matches.json (forma in src/types.ts, id `<competition>-<YYYY-MM-DD>-<casa>-<ospite>`).
-   Attenzione al fuso: +02:00 fino all'ultima domenica di ottobre, poi +01:00 (fino all'ultima di marzo).
+**Automatico:** `.github/workflows/update-feed.yml` lancia `backend/auto-update.mjs` ogni 6 ore (fonti e
+logica descritte in testa al file e nel README). Se una fonte cambia formato, lo script la salta e tiene i
+dati vecchi: controllare il log del workflow e correggere il parser.
+
+**Quando l'utente chiede di aggiornare o correggere qualcosa:**
+1. `git pull --rebase` (il bot fa commit ogni 6 ore).
+2. Lanciare `npm run update-feed` e controllare il risultato. Per dati che le fonti automatiche non danno
+   (es. Prime/TV8 oltre la settimana della guida Goal, conferme SRG ufficiali) cercare sul web e scriverli in
+   `data/manual.json` (`{ "<id>": { broadcasters?, warning?, sources? } }`), poi rilanciare lo script.
    Fonti discordanti o solo aggregatori → `confirmed: false` con una nota.
-4. `npm run typecheck`, commit, e chiedere all'utente di fare `git push`.
+3. `npm run typecheck`, commit e **`git push` fatto da Claude**: l'utente non deve usare né il terminale né
+   GitHub. Se il push fallisce per conflitto col bot: `git pull --rebase` e ripetere.
 
 ## Versione web (PWA)
 L'utente ha un iPhone senza account sviluppatore Apple: l'app principale è la versione web su GitHub Pages
@@ -45,7 +48,7 @@ L'utente ha un iPhone senza account sviluppatore Apple: l'app principale è la v
 (notifiche e background disattivati). Ogni modifica va verificata anche con l'export web.
 
 ## Prossimi passi (TODO)
-1. Fatto: repo online e feedUrl impostato. Aggiornamento automatico disattivato (vedi sopra).
+1. Fatto: repo online, feedUrl impostato, aggiornamento automatico gratuito (vedi sopra).
 2. Prova su telefono con build di sviluppo (`eas build -p android --profile development`): notifiche e
    aggiornamento in background (src/background.ts) non sono ancora stati verificati su un dispositivo.
 3. Pubblicazione: `eas init`, build `production` e store.

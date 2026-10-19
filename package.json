@@ -8,7 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "typecheck": "tsc --noEmit",
-    "update-feed": "node backend/update.mjs"
+    "update-feed": "node backend/auto-update.mjs"
   },
   "dependencies": {
     "@expo-google-fonts/barlow-condensed": "^0.4.1",
@@ -37,7 +37,6 @@
     "react-native-web": "^0.21.2"
   },
   "devDependencies": {
-    "@anthropic-ai/sdk": "^0.135.0",
     "@types/react": "~19.2.0",
     "typescript": "~5.9.0"
   },
