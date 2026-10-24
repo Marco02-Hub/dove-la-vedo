@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-10-24T16:01:17.331Z",
+  "updatedAt": "2026-10-24T20:54:37.816Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-24-napoli-roma",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Napoli",
-      "away": "Roma",
-      "kickoff": "2026-10-24T18:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874948",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-24-lazio-parma",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Lazio",
-      "away": "Parma",
-      "kickoff": "2026-10-24T20:45:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874955",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
-        "https://programmi.sky.it/sport/calcio/serie-a"
-      ]
-    },
     {
       "id": "serie_a-2026-10-25-inter-fiorentina",
       "competition": "serie_a",
