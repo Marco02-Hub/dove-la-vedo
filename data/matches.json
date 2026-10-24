@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-24T11:08:48.478Z",
+  "updatedAt": "2026-10-24T16:01:17.331Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-24-cagliari-bologna",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Cagliari",
-      "away": "Bologna",
-      "kickoff": "2026-10-24T15:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874958",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-24-como-sassuolo",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Como",
-      "away": "Sassuolo",
-      "kickoff": "2026-10-24T15:00:00+02:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874961",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-24-napoli-roma",
       "competition": "serie_a",
