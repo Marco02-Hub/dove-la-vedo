@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-10-25T11:38:53.097Z",
+  "updatedAt": "2026-10-25T16:28:53.622Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-25-inter-fiorentina",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Inter",
-      "away": "Fiorentina",
-      "kickoff": "2026-10-25T12:30:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401875036",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-25-atalanta-frosinone",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Atalanta",
-      "away": "Frosinone",
-      "kickoff": "2026-10-25T15:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874972",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-25-genoa-venezia",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Genoa",
-      "away": "Venezia",
-      "kickoff": "2026-10-25T15:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874952",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-25-lecce-juventus",
       "competition": "serie_a",
