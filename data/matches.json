@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-25T20:55:55.070Z",
+  "updatedAt": "2026-10-26T04:54:04.976Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-25-udinese-milan",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Udinese",
-      "away": "Milan",
-      "kickoff": "2026-10-25T20:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874779",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-27-sassuolo-lazio",
       "competition": "serie_a",
