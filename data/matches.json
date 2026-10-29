@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-29T13:09:59.017Z",
+  "updatedAt": "2026-10-29T22:48:25.115Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-29-frosinone-lecce",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Frosinone",
-      "away": "Lecce",
-      "kickoff": "2026-10-29T18:30:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874976",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-29-fiorentina-atalanta",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Fiorentina",
-      "away": "Atalanta",
-      "kickoff": "2026-10-29T20:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874969",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-31-bologna-monza",
       "competition": "serie_a",
