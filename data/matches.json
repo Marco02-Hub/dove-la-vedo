@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:55:18.046Z",
+  "updatedAt": "2026-10-30T13:02:08.689Z",
   "matches": [
     {
       "id": "serie_a-2026-10-31-bologna-monza",
@@ -191,6 +191,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874963",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -211,6 +212,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874971",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -229,7 +231,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915386"
+        "https://www.espn.com/soccer/match/_/gameId/401915386",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -247,7 +250,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915387"
+        "https://www.espn.com/soccer/match/_/gameId/401915387",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -265,7 +269,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915307"
+        "https://www.espn.com/soccer/match/_/gameId/401915307",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -283,7 +288,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915308"
+        "https://www.espn.com/soccer/match/_/gameId/401915308",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -301,7 +307,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915309"
+        "https://www.espn.com/soccer/match/_/gameId/401915309",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -319,7 +326,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915383"
+        "https://www.espn.com/soccer/match/_/gameId/401915383",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -337,7 +345,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915382"
+        "https://www.espn.com/soccer/match/_/gameId/401915382",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -355,7 +364,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915304"
+        "https://www.espn.com/soccer/match/_/gameId/401915304",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -373,7 +383,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915305"
+        "https://www.espn.com/soccer/match/_/gameId/401915305",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -385,13 +396,20 @@
       "kickoff": "2026-11-04T21:00:00+01:00",
       "broadcasters": [
         {
+          "kind": "free_it",
+          "name": "TV8",
+          "note": "solo dall'Italia",
+          "confirmed": true
+        },
+        {
           "kind": "sky",
           "name": "Sky Sport / NOW",
           "confirmed": true
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915306"
+        "https://www.espn.com/soccer/match/_/gameId/401915306",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -409,7 +427,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915301"
+        "https://www.espn.com/soccer/match/_/gameId/401915301",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -427,7 +446,8 @@
         }
       ],
       "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915381"
+        "https://www.espn.com/soccer/match/_/gameId/401915381",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
       ]
     },
     {
@@ -451,6 +471,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874815",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -490,6 +511,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874811",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -509,6 +531,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874974",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -533,6 +556,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874803",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -553,6 +577,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874810",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -572,6 +597,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875018",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -591,6 +617,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874800",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -615,6 +642,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874808",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -635,6 +663,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875003",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
