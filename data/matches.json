@@ -1,44 +1,6 @@
 {
-  "updatedAt": "2026-10-31T12:40:27.232Z",
+  "updatedAt": "2026-10-31T21:40:20.078Z",
   "matches": [
-    {
-      "id": "serie_a-2026-10-31-bologna-monza",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Bologna",
-      "away": "Monza",
-      "kickoff": "2026-10-31T15:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874798",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
-    {
-      "id": "serie_a-2026-10-31-udinese-roma",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Udinese",
-      "away": "Roma",
-      "kickoff": "2026-10-31T18:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874990",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-10-31-milan-inter",
       "competition": "serie_a",
