@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:25:50.545Z",
+  "updatedAt": "2026-10-31T05:51:12.604Z",
   "matches": [
     {
       "id": "serie_a-2026-10-31-bologna-monza",
@@ -665,6 +665,88 @@
         "https://www.espn.com/soccer/match/_/gameId/401875003",
         "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-21-como-cagliari",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Como",
+      "away": "Cagliari",
+      "kickoff": "2026-11-21T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875056",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-21-lazio-lecce",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lazio",
+      "away": "Lecce",
+      "kickoff": "2026-11-21T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874981",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-21-parma-roma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Parma",
+      "away": "Roma",
+      "kickoff": "2026-11-21T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874967",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-21-napoli-torino",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Napoli",
+      "away": "Torino",
+      "kickoff": "2026-11-21T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875067",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     }
   ]
