@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-01T06:15:09.668Z",
+  "updatedAt": "2026-11-01T13:38:01.795Z",
   "matches": [
-    {
-      "id": "serie_a-2026-11-01-como-venezia",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Como",
-      "away": "Venezia",
-      "kickoff": "2026-11-01T12:30:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401875002",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-11-01-frosinone-torino",
       "competition": "serie_a",
