@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:06:38.358Z",
+  "updatedAt": "2026-11-02T06:16:07.736Z",
   "matches": [
     {
       "id": "serie_a-2026-11-02-sassuolo-fiorentina",
@@ -684,6 +684,25 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875001",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-23-monza-fiorentina",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Monza",
+      "away": "Fiorentina",
+      "kickoff": "2026-11-23T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875009",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
