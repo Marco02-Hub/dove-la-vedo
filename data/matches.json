@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:45:06.613Z",
+  "updatedAt": "2026-11-03T06:54:19.768Z",
   "matches": [
     {
       "id": "ucl-2026-11-03-atletico-madrid-bayern",
@@ -658,6 +658,96 @@
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875009",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-24-arsenal-dortmund",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Arsenal",
+      "away": "Dortmund",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915295"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-24-como-aek-atene",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Como",
+      "away": "AEK Atene",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915296"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-24-feyenoord-porto",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Feyenoord",
+      "away": "Porto",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915294"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-24-manchester-city-napoli",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Manchester City",
+      "away": "Napoli",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915379"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-24-real-madrid-psv",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Real Madrid",
+      "away": "PSV",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915298"
       ]
     }
   ]
