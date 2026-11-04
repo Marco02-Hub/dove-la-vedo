@@ -1,44 +1,6 @@
 {
-  "updatedAt": "2026-11-04T06:32:51.757Z",
+  "updatedAt": "2026-11-04T19:49:44.094Z",
   "matches": [
-    {
-      "id": "ucl-2026-11-04-aek-atene-real-madrid",
-      "competition": "ucl",
-      "group": "top",
-      "home": "AEK Atene",
-      "away": "Real Madrid",
-      "kickoff": "2026-11-04T18:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915383",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-04-fenerbahce-liverpool",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Fenerbahçe",
-      "away": "Liverpool",
-      "kickoff": "2026-11-04T18:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915382",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
     {
       "id": "ucl-2026-11-04-dortmund-betis",
       "competition": "ucl",
