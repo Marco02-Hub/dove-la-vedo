@@ -1,101 +1,6 @@
 {
-  "updatedAt": "2026-11-03T19:32:03.587Z",
+  "updatedAt": "2026-11-04T06:32:51.757Z",
   "matches": [
-    {
-      "id": "ucl-2026-11-03-atletico-madrid-bayern",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Atlético Madrid",
-      "away": "Bayern",
-      "kickoff": "2026-11-03T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915386",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-03-barcellona-aston-villa",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Barcellona",
-      "away": "Aston Villa",
-      "kickoff": "2026-11-03T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915387",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-03-feyenoord-inter",
-      "competition": "ucl",
-      "group": "italiane",
-      "home": "Feyenoord",
-      "away": "Inter",
-      "kickoff": "2026-11-03T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915307",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-03-manchester-united-roma",
-      "competition": "ucl",
-      "group": "italiane",
-      "home": "Manchester United",
-      "away": "Roma",
-      "kickoff": "2026-11-03T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915308",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-03-villarreal-psg",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Villarreal",
-      "away": "PSG",
-      "kickoff": "2026-11-03T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915309",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
     {
       "id": "ucl-2026-11-04-aek-atene-real-madrid",
       "competition": "ucl",
@@ -748,6 +653,134 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401915298"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-sabah-barcellona",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Sabah",
+      "away": "Barcellona",
+      "kickoff": "2026-11-25T18:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915378"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-atletico-madrid-viking",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Atlético Madrid",
+      "away": "Viking",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915291"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-club-brugge-liverpool",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915292"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-inter-stoccarda",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Inter",
+      "away": "Stoccarda",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "note": "il mercoledì Prime Video sceglie una partita delle italiane",
+          "confirmed": false
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915376"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-lille-bayern",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Lille",
+      "away": "Bayern",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915377"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-psg-roma",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "PSG",
+      "away": "Roma",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "note": "il mercoledì Prime Video sceglie una partita delle italiane",
+          "confirmed": false
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915374"
+      ]
+    },
+    {
+      "id": "ucl-2026-11-25-sporting-manchester-united",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Sporting",
+      "away": "Manchester United",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915373"
       ]
     }
   ]
