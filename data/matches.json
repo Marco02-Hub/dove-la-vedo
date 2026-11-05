@@ -1,107 +1,6 @@
 {
-  "updatedAt": "2026-11-04T19:49:44.094Z",
+  "updatedAt": "2026-11-05T06:55:41.940Z",
   "matches": [
-    {
-      "id": "ucl-2026-11-04-dortmund-betis",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Dortmund",
-      "away": "Betis",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915304",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-04-lens-como",
-      "competition": "ucl",
-      "group": "italiane",
-      "home": "Lens",
-      "away": "Como",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915305",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-04-lipsia-manchester-city",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Lipsia",
-      "away": "Manchester City",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "free_it",
-          "name": "TV8",
-          "note": "solo dall'Italia",
-          "confirmed": true
-        },
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915306",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-04-porto-napoli",
-      "competition": "ucl",
-      "group": "italiane",
-      "home": "Porto",
-      "away": "Napoli",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "prime",
-          "name": "Prime Video",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915301",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
-    {
-      "id": "ucl-2026-11-04-slavia-praga-arsenal",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Slavia Praga",
-      "away": "Arsenal",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915381",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr"
-      ]
-    },
     {
       "id": "serie_a-2026-11-06-venezia-udinese",
       "competition": "serie_a",
@@ -144,6 +43,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874791",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
