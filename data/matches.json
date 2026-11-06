@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:00:46.694Z",
+  "updatedAt": "2026-11-06T06:54:39.138Z",
   "matches": [
     {
       "id": "serie_a-2026-11-06-venezia-udinese",
@@ -643,6 +643,31 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401915373"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-27-venezia-bologna",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Venezia",
+      "away": "Bologna",
+      "kickoff": "2026-11-27T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875004",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     }
   ]
