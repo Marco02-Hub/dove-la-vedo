@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-11-06T19:28:11.429Z",
+  "updatedAt": "2026-11-07T06:05:45.982Z",
   "matches": [
-    {
-      "id": "serie_a-2026-11-06-venezia-udinese",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Venezia",
-      "away": "Udinese",
-      "kickoff": "2026-11-06T20:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874815",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
-        "https://programmi.sky.it/sport/calcio/serie-a"
-      ]
-    },
     {
       "id": "serie_a-2026-11-07-cagliari-frosinone",
       "competition": "serie_a",
@@ -666,6 +640,69 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875004",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-28-frosinone-parma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Parma",
+      "kickoff": "2026-11-28T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875081",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-28-torino-lazio",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Torino",
+      "away": "Lazio",
+      "kickoff": "2026-11-28T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874826",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-28-inter-genoa",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Inter",
+      "away": "Genoa",
+      "kickoff": "2026-11-28T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874977",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
