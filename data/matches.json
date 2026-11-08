@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-08T06:09:29.328Z",
+  "updatedAt": "2026-11-08T13:31:51.030Z",
   "matches": [
-    {
-      "id": "serie_a-2026-11-08-napoli-lazio",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Napoli",
-      "away": "Lazio",
-      "kickoff": "2026-11-08T12:30:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401874810",
-        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
-      ]
-    },
     {
       "id": "serie_a-2026-11-08-genoa-milan",
       "competition": "serie_a",
