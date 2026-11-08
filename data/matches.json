@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:55:32.916Z",
+  "updatedAt": "2026-11-08T06:09:29.328Z",
   "matches": [
     {
       "id": "serie_a-2026-11-08-napoli-lazio",
@@ -619,6 +619,88 @@
         "https://www.espn.com/soccer/match/_/gameId/401874977",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-29-udinese-fiorentina",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Udinese",
+      "away": "Fiorentina",
+      "kickoff": "2026-11-29T12:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875031",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-29-sassuolo-napoli",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Sassuolo",
+      "away": "Napoli",
+      "kickoff": "2026-11-29T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874992",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-29-roma-monza",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Roma",
+      "away": "Monza",
+      "kickoff": "2026-11-29T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874769",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "serie_a-2026-11-29-como-juventus",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Como",
+      "away": "Juventus",
+      "kickoff": "2026-11-29T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874994",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
   ]
