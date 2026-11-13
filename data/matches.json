@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:59:25.109Z",
+  "updatedAt": "2026-11-13T06:51:39.927Z",
   "matches": [
     {
       "id": "serie_a-2026-11-21-como-cagliari",
@@ -632,6 +632,25 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875019",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-04-bologna-roma",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Bologna",
+      "away": "Roma",
+      "kickoff": "2026-12-04T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874984",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
