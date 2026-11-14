@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:32:25.599Z",
+  "updatedAt": "2026-11-14T18:11:04.647Z",
   "matches": [
     {
       "id": "serie_a-2026-11-21-como-cagliari",
@@ -17,6 +17,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875056",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -36,6 +37,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874981",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -55,6 +57,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874967",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -79,6 +82,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875067",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -104,6 +108,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875008",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -129,6 +134,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875047",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
       ]
@@ -149,6 +155,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874960",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -161,6 +168,11 @@
       "kickoff": "2026-11-22T18:00:00+01:00",
       "broadcasters": [
         {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
           "kind": "dazn",
           "name": "DAZN",
           "confirmed": true
@@ -168,6 +180,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874989",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
@@ -187,6 +200,7 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401875001",
+        "https://www.goal.com/it/notizie/guida-tv-dove-vedere-tutto-il-calcio-in-diretta-e-streaming/1674frahvw8qt1nojf0cwjwlzr",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     },
