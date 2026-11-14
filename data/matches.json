@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:47:39.033Z",
+  "updatedAt": "2026-11-14T06:32:25.599Z",
   "matches": [
     {
       "id": "serie_a-2026-11-21-como-cagliari",
@@ -652,6 +652,69 @@
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401874984",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-05-monza-como",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Monza",
+      "away": "Como",
+      "kickoff": "2026-12-05T15:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874975",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-05-frosinone-inter",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Inter",
+      "kickoff": "2026-12-05T18:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875023",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-05-napoli-lecce",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Napoli",
+      "away": "Lecce",
+      "kickoff": "2026-12-05T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874788",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
       ]
     }
   ]
