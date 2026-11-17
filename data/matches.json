@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:11:49.940Z",
+  "updatedAt": "2026-11-17T07:59:59.788Z",
   "matches": [
     {
       "id": "serie_a-2026-11-21-como-cagliari",
@@ -855,6 +855,114 @@
         "https://www.espn.com/soccer/match/_/gameId/401875107",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-aston-villa-psg",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Aston Villa",
+      "away": "PSG",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915286"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-barcellona-manchester-city",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Barcellona",
+      "away": "Manchester City",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915285"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-bayern-slavia-praga",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Bayern",
+      "away": "Slavia Praga",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915284"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-manchester-united-lipsia",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Manchester United",
+      "away": "Lipsia",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915371"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-napoli-club-brugge",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Napoli",
+      "away": "Club Brugge",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915287"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-08-roma-sporting",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Roma",
+      "away": "Sporting",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915288"
       ]
     }
   ]
