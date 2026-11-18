@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:59:41.120Z",
+  "updatedAt": "2026-11-18T07:36:52.091Z",
   "matches": [
     {
       "id": "serie_a-2026-11-21-como-cagliari",
@@ -963,6 +963,98 @@
       ],
       "sources": [
         "https://www.espn.com/soccer/match/_/gameId/401915288"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-09-betis-como",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Betis",
+      "away": "Como",
+      "kickoff": "2026-12-09T18:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "note": "il mercoledì Prime Video sceglie una partita delle italiane",
+          "confirmed": false
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915283"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-09-arsenal-real-madrid",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Arsenal",
+      "away": "Real Madrid",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915367"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-09-dortmund-inter",
+      "competition": "ucl",
+      "group": "italiane",
+      "home": "Dortmund",
+      "away": "Inter",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "note": "il mercoledì Prime Video sceglie una partita delle italiane",
+          "confirmed": false
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915368"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-09-liverpool-porto",
+      "competition": "ucl",
+      "group": "top",
+      "home": "Liverpool",
+      "away": "Porto",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915369"
+      ]
+    },
+    {
+      "id": "ucl-2026-12-09-psv-atletico-madrid",
+      "competition": "ucl",
+      "group": "top",
+      "home": "PSV",
+      "away": "Atlético Madrid",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401915366"
       ]
     }
   ]
