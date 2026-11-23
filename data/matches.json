@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-11-23T07:46:18.858Z",
+  "updatedAt": "2026-11-23T23:58:06.234Z",
   "matches": [
-    {
-      "id": "serie_a-2026-11-23-monza-fiorentina",
-      "competition": "serie_a",
-      "group": "serie_a",
-      "home": "Monza",
-      "away": "Fiorentina",
-      "kickoff": "2026-11-23T20:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        },
-        {
-          "kind": "dazn",
-          "name": "DAZN",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401875009",
-        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
-        "https://programmi.sky.it/sport/calcio/serie-a"
-      ]
-    },
     {
       "id": "ucl-2026-11-24-arsenal-dortmund",
       "competition": "ucl",
