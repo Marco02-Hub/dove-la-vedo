@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-25T08:43:16.273Z",
+  "updatedAt": "2026-11-25T21:46:24.603Z",
   "matches": [
-    {
-      "id": "ucl-2026-11-25-sabah-barcellona",
-      "competition": "ucl",
-      "group": "top",
-      "home": "Sabah",
-      "away": "Barcellona",
-      "kickoff": "2026-11-25T18:45:00+01:00",
-      "broadcasters": [
-        {
-          "kind": "sky",
-          "name": "Sky Sport / NOW",
-          "confirmed": true
-        }
-      ],
-      "sources": [
-        "https://www.espn.com/soccer/match/_/gameId/401915378"
-      ]
-    },
     {
       "id": "ucl-2026-11-25-atletico-madrid-viking",
       "competition": "ucl",
