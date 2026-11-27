@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T21:39:04.142Z",
+  "updatedAt": "2026-11-27T08:42:30.635Z",
   "matches": [
     {
       "id": "serie_a-2026-11-27-venezia-bologna",
@@ -823,6 +823,50 @@
         "https://www.espn.com/soccer/match/_/gameId/401874783",
         "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
         "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-18-frosinone-lazio",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Frosinone",
+      "away": "Lazio",
+      "kickoff": "2026-12-18T18:30:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "sky",
+          "name": "Sky Sport / NOW",
+          "confirmed": true
+        },
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401875016",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w",
+        "https://programmi.sky.it/sport/calcio/serie-a"
+      ]
+    },
+    {
+      "id": "serie_a-2026-12-18-lecce-inter",
+      "competition": "serie_a",
+      "group": "serie_a",
+      "home": "Lecce",
+      "away": "Inter",
+      "kickoff": "2026-12-18T20:45:00+01:00",
+      "broadcasters": [
+        {
+          "kind": "dazn",
+          "name": "DAZN",
+          "confirmed": true
+        }
+      ],
+      "sources": [
+        "https://www.espn.com/soccer/match/_/gameId/401874996",
+        "https://www.dazn.com/it-IT/news/calcio/calendario-completo-serie-a-dove-vedere-le-partite/1qtugc7g9k7w71sjt6einxmm8w"
       ]
     }
   ]
